@@ -1,0 +1,12 @@
+/home/velmarshal/credeo/Csharp_stuff/PoC/StringLibTestPackage/bin/Debug/net6.0/StringLibTestPackage.deps.json
+/home/velmarshal/credeo/Csharp_stuff/PoC/StringLibTestPackage/bin/Debug/net6.0/StringLibTestPackage.dll
+/home/velmarshal/credeo/Csharp_stuff/PoC/StringLibTestPackage/bin/Debug/net6.0/StringLibTestPackage.pdb
+/home/velmarshal/credeo/Csharp_stuff/PoC/StringLibTestPackage/obj/Debug/net6.0/StringLibTestPackage.csproj.AssemblyReference.cache
+/home/velmarshal/credeo/Csharp_stuff/PoC/StringLibTestPackage/obj/Debug/net6.0/StringLibTestPackage.GeneratedMSBuildEditorConfig.editorconfig
+/home/velmarshal/credeo/Csharp_stuff/PoC/StringLibTestPackage/obj/Debug/net6.0/StringLibTestPackage.AssemblyInfoInputs.cache
+/home/velmarshal/credeo/Csharp_stuff/PoC/StringLibTestPackage/obj/Debug/net6.0/StringLibTestPackage.AssemblyInfo.cs
+/home/velmarshal/credeo/Csharp_stuff/PoC/StringLibTestPackage/obj/Debug/net6.0/StringLibTestPackage.csproj.CoreCompileInputs.cache
+/home/velmarshal/credeo/Csharp_stuff/PoC/StringLibTestPackage/obj/Debug/net6.0/StringLibTestPackage.dll
+/home/velmarshal/credeo/Csharp_stuff/PoC/StringLibTestPackage/obj/Debug/net6.0/refint/StringLibTestPackage.dll
+/home/velmarshal/credeo/Csharp_stuff/PoC/StringLibTestPackage/obj/Debug/net6.0/StringLibTestPackage.pdb
+/home/velmarshal/credeo/Csharp_stuff/PoC/StringLibTestPackage/obj/Debug/net6.0/ref/StringLibTestPackage.dll

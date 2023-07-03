@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/velmarshal/credeo/Csharp_stuff/PoC/StringLibTestPackage/StringLibTestPackage.csproj": {}
+  },
+  "projects": {
+    "/home/velmarshal/credeo/Csharp_stuff/PoC/StringLibTestPackage/StringLibTestPackage.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/velmarshal/credeo/Csharp_stuff/PoC/StringLibTestPackage/StringLibTestPackage.csproj",
+        "projectName": "UniqueID2023test2023",
+        "projectPath": "/home/velmarshal/credeo/Csharp_stuff/PoC/StringLibTestPackage/StringLibTestPackage.csproj",
+        "packagesPath": "/home/velmarshal/.nuget/packages/",
+        "outputPath": "/home/velmarshal/credeo/Csharp_stuff/PoC/StringLibTestPackage/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/velmarshal/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/velmarshal/.dotnet/sdk/6.0.407/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
